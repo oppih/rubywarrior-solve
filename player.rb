@@ -6,6 +6,8 @@ class Player
       else
         warrior.rest!
       end
+    elsif warrior.feel.captive?
+      warrior.rescue!
     else
       warrior.attack!
     end
