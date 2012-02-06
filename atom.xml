@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Solve Rubywarrior]]></title>
+  <link href="http://oppih.github.com/rubywarrior-solve/atom.xml" rel="self"/>
+  <link href="http://oppih.github.com/rubywarrior-solve/"/>
+  <updated>2012-02-06T23:12:11+08:00</updated>
+  <id>http://oppih.github.com/rubywarrior-solve/</id>
+  <author>
+    <name><![CDATA[oppih Xue]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

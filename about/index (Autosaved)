@@ -5,11 +5,12 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Solve Rubywarrior</title>
+  <title>about - Solve Rubywarrior</title>
   <meta name="author" content="oppih Xue">
 
   
-  <meta name="description" content="Blog Archives Recent Posts Github Repos Status updating&#8230; @oppih on Github $.domReady(function(){ if (!window.jXHR){ var jxhr = document. &hellip;">
+  <meta name="description" content="About Feb 6th, 2012 ##About this site:
+I&#8217;m learning [Ruby](http://ruby-lang.org) by myself since Jan, 2012 and came across this interesting AI &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://oppih.github.com/rubywarrior-solve">
+  <link rel="canonical" href="http://oppih.github.com/rubywarrior-solve/about/index (Autosaved)">
   <link href="/rubywarrior-solve/favicon.png" rel="icon">
   <link href="/rubywarrior-solve/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/rubywarrior-solve/javascripts/modernizr-2.0.js"></script>
@@ -75,15 +76,76 @@
 </nav>
   <div id="main">
     <div id="content">
-      <div class="blog-index">
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">About</h1>
+    <p class="meta">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-06T15:55:00+08:00" pubdate data-updated="true">Feb 6<span>th</span>, 2012</time></p>
+  </header>
+  
+  ##About this site:
+I&#8217;m learning [Ruby](http://ruby-lang.org) by myself since Jan, 2012 and came across this interesting AI game name. As I believe that skills develops through practice, and I also want to have try with [Octopress](http://octopress.org) I setup this **blog** to keep my solutions to [Rubywarroir](https://github.com/ryanb/ruby-warrior).
+
+##About rubywarrior:
+[Rubywarroir](https://github.com/ryanb/ruby-warrior) is a game designed to teach the Ruby language and artificial intelligence in a fun, interactive way.
+  
+    <footer>
+      <p class="meta">
+        
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-06T15:55:00+08:00" pubdate data-updated="true">Feb 6<span>th</span>, 2012</time>
+        
+      </p>
+      
+        <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://oppih.github.com/rubywarrior-solve/about/index (Autosaved)" data-via="oppih28" data-counturl="http://oppih.github.com/rubywarrior-solve/about/index (Autosaved)" >Tweet</a>
   
   
-  <div class="pagination">
-    
-    <a href="/rubywarrior-solve/blog/archives">Blog Archives</a>
-    
-  </div>
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
 </div>
+
+      
+    </footer>
+  
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
 <aside class="sidebar">
   
     <section>
@@ -96,7 +158,7 @@
 <section>
   <h1>Github Repos</h1>
   <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
+    <li class="loading">Status updating...</li>
   </ul>
   
   <a href="https://github.com/oppih">@oppih</a> on Github
@@ -126,7 +188,7 @@
 <section>
   <h1>Latest Tweets</h1>
   <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
+    <li class="loading">Status updating...</li>
   </ul>
   <script type="text/javascript">
     $.domReady(function(){
@@ -146,6 +208,7 @@
   
 </aside>
 
+
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -160,7 +223,10 @@
       var disqus_shortname = 'solverubywarrior';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://oppih.github.com/rubywarrior-solve/about/index (Autosaved)';
+        var disqus_url = 'http://oppih.github.com/rubywarrior-solve/about/index (Autosaved)';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
