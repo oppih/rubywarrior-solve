@@ -4,7 +4,7 @@
   <title><![CDATA[Solve Rubywarrior]]></title>
   <link href="http://oppih.github.com/rubywarrior-solve/atom.xml" rel="self"/>
   <link href="http://oppih.github.com/rubywarrior-solve/"/>
-  <updated>2012-02-06T23:33:28+08:00</updated>
+  <updated>2012-02-06T23:49:24+08:00</updated>
   <id>http://oppih.github.com/rubywarrior-solve/</id>
   <author>
     <name><![CDATA[oppih Xue]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Rubywarrior]]></title>
+    <link href="http://oppih.github.com/rubywarrior-solve/blog/2012/02/06/hello-rubywarrior/"/>
+    <updated>2012-02-06T23:41:00+08:00</updated>
+    <id>http://oppih.github.com/rubywarrior-solve/blog/2012/02/06/hello-rubywarrior</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve just wrote an <a href="http://oppih.github.com/rubywarrior-solve/about/">About</a> page. And now I want to write the first post here <strong>&#8220;Hello Rubywarrior&#8221;</strong> to show that I have started to work on this :)</p>
+
+<p>Actually, I&#8217;m working on <strong>Level 8</strong> (beginner) currently and just want to find a way to keep my process so I setup this site. And I also want to find someone who is interested in <strong>ruby learning</strong> and want to improve skills in this way.</p>
+
+<p>I&#8217;ll manage to write this blog in <strong>English</strong> because most contents of this site would just be simple and easy to underseand :)</p>
+
+<p>OK, good luck with my way on &#8220;climbing the rubywarroir tower&#8221;.</p>
+]]></content>
+  </entry>
   
 </feed>
