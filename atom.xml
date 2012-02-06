@@ -4,7 +4,7 @@
   <title><![CDATA[Solve Rubywarrior]]></title>
   <link href="http://oppih.github.com/rubywarrior-solve/atom.xml" rel="self"/>
   <link href="http://oppih.github.com/rubywarrior-solve/"/>
-  <updated>2012-02-06T23:49:24+08:00</updated>
+  <updated>2012-02-06T23:57:38+08:00</updated>
   <id>http://oppih.github.com/rubywarrior-solve/</id>
   <author>
     <name><![CDATA[oppih Xue]]></name>
@@ -25,6 +25,25 @@
 <p>I&#8217;ll manage to write this blog in <strong>English</strong> because most contents of this site would just be simple and easy to underseand :)</p>
 
 <p>OK, good luck with my way on &#8220;climbing the rubywarroir tower&#8221;.</p>
+
+<hr />
+
+<p>BTW, I came to find, when I&#8217;m using ZSH, the common usage of octopress&#8217;s command line has some difference:</p>
+
+<pre><code>rake new_post[title]
+</code></pre>
+
+<p>This should be:</p>
+
+<pre><code>rake new_post\["Hello Rubywarrior"\]
+</code></pre>
+
+<p>Or I would only get some error message like:</p>
+
+<pre><code>zsh: no matches found: new_post[Hello Rubywarrior]
+</code></pre>
+
+<p>Not a big problem, just in case you might encounter the same as I did.</p>
 ]]></content>
   </entry>
   
